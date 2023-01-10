@@ -1,16 +1,128 @@
 
-<h1 align="center">Hi 👋, I'm DAngelo Diego</h1>
-<h3 align="center">Creative Frontend Developer</h3>
-<img align="right" alt="Coding" width="200" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"/>
 
-- 🌱 I’m currently learning **SQL**
 
-- 📫 How to reach me **https://www.linkedin.com/in/diegodangeloitspecialist/**
+<h1 align="center">Hi 👋, I'm D'Angelo Diego</h1>
+<h3 align="center">Android Mobile Developer</h3>
 
-<p align="left">
-</p>
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQat3-UhSVSJmKQUC3thkp5TfyoVkW7vgnbS1PlVxx9fzuOXUOM_en-L5aJ3dh1dJTuV0&usqp=CAU">
+
+
+- 📫 How to reach me **https://www.linkedin.com/in/dario-d-angelo-b65622223/**
+
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dariodangeloo&show_icons=true&locale=en&layout=compact" alt="dariodangeloo" /></p>
+
+
+# 🌲  Some of my Latest Apps 👇 
+
+## Android Coffee ☕ 
+
+This Document will help you to fully view the project and understand the app.
+
+
+
+![Logo](https://user-images.githubusercontent.com/108690292/211604971-2c6050f6-120e-4970-a75c-ab47d5a42ea1.png)
+
+
+## About this app 📜 
+
+This is an app for learning about the most important stack of skill you need to acquire to become a full professional mobile developer
+with **Kotlin, XML and Jetpack Compose.**
+## Tech Stack 💻 
+
+`Android Studio, Kotlin, Ktor, Jetpack Compose .`
+
+
+
+### Backend Server 
+* Create my own REST API with Ktor
+* Server Engines
+* Handle Server Requests and Responses
+* Auto-Reload Server feature
+* Testing with Postman
+* Testing Server Endpoints
+* Dependency Injection with Koin
+
+#### The backend for this app: [Android Coffee API](https://github.com/DarioDAngeloo/AndroidCoffe-Backend)
+
+#
+#### Docker
+
+ We create a *docker enviroment* and a *dockerfile* to upload the
+backend server to *"render (web app)"* so anyone can use it. 
+
+#### If you want to use my API REST here it is:   [API of this app](https://fine-o4pw.onrender.com/)
+
+#
+### Android Studio Tech Used
+
+* MVVM 
+* Design Pattern
+* Offline Caching with Remote Mediator
+* Clean Architecture
+* Work with multiple Paging Sources in Android Studio
+* ROOM as a Local Database
+* Dependency Injection with Dagger-Hilt
+* Implement On Boarding Screens
+* Implement Swipe to Refresh
+* Shimmer Effect
+* Palette API
+* Testing Custom UI Components
+* Testing Android Application
+* Dynamic Layout Colors
+* Extract Colors from an Image and Apply them into the Layout
+* Search Widget - Custom UI Component with Jetpack Compose
+* Implement Paging 3 Library in Android Kotlin
+* Both Light and Dark Theme Design
+* Handle Paging Error
+* DataStore Preferences
+* Retrofit
+
+
+##  📽️ App Demostration (video)
+
+Here i'm posting 2 differents preview of the same app but the first one is the "Day Mode" and the second one is for "Night Mode"...
+
+#### TwiTech is my username in the google playstore as developer!
+
+
+- [Day mode | Video overview of the entiry app ](https://user-images.githubusercontent.com/108690292/211670636-dfffc1a5-c7c6-4038-951f-e995e202de76.mp4)
+
+
+- [Night mode | Video overview of the entiry app ](https://user-images.githubusercontent.com/108690292/211659272-d45fcf43-e5ff-4d5d-ad15-195ed8cee6fb.mp4)
+
+
+
+
+
+##  🖼️ App Overview
+
+I'm leaving here some screenshots so that you can know more about this app and what it contains!
+
+#### TwiTech is my username in the google playstore as developer!
+![Capture](https://user-images.githubusercontent.com/108690292/211664844-b3f2de7d-f9ed-4b50-8014-4a65a676c628.PNG)
+![1](https://user-images.githubusercontent.com/108690292/211664497-275b8ac9-fc7d-4e68-bb40-6734f6a28fab.PNG)
+![2](https://user-images.githubusercontent.com/108690292/211664560-1eed44d3-14ca-484b-a0d5-2ba63ff2b1e7.PNG)
+![3](https://user-images.githubusercontent.com/108690292/211664610-591db916-5b31-46dc-951e-b4ce7f4f885b.PNG)
+![4](https://user-images.githubusercontent.com/108690292/211664699-f3497a24-b8ce-4219-a82b-baaf2b6861d3.PNG)
+![5](https://user-images.githubusercontent.com/108690292/211664749-e9193c56-4584-4203-a81f-ee7f0d005c1b.PNG)
+![6](https://user-images.githubusercontent.com/108690292/211665322-d8c63afa-28c6-4074-b802-0544a00e9726.PNG)
+![7](https://user-images.githubusercontent.com/108690292/211665436-8c9678c1-4612-4943-b59c-5133ade80f08.PNG)
+![8](https://user-images.githubusercontent.com/108690292/211665490-7439007d-9702-4fc5-b846-3c38ecf7bd59.PNG)
+![9](https://user-images.githubusercontent.com/108690292/211665543-789894aa-7aae-403d-975b-fb598475c6aa.PNG)
+![10](https://user-images.githubusercontent.com/108690292/211665609-ec11f1f7-4126-4519-b29a-f91285ad663a.PNG)
+![11](https://user-images.githubusercontent.com/108690292/211665762-185b99ac-64fb-4a49-aa0e-2973a5a3f66a.PNG)
+
+## 🤝  Contributors on this project
+
+*  Especial thanks to my twin brother for the always support 
+
+ 🙌 His github: https://github.com/DAngelo-Diego
+
 
 
